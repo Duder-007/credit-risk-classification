@@ -1,5 +1,5 @@
 # credit-risk-classification
- Module 20
+# Module 20
 When lending companies give out loans, they expect borrowers to either return the asset or pay back the money. However, there's always a risk that the borrower might not repay, which can cause the lender to lose money. This risk is known as "Credit Risk."
 
 In this analysis, we're using Machine Learning to examine historical lending data from a peer-to-peer lending company. Our goal is to build a model that can help predict how likely a borrower is to repay their loan, which is called "creditworthiness."
